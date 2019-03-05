@@ -34,6 +34,5 @@ public class Deck {
 		Collections.shuffle(cards);
 		top = cards.size() - 1;
 	}
-		
-	// cool
+
 }
