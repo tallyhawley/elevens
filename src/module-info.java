@@ -6,4 +6,5 @@
  *
  */
 module elevens {
+	requires java.desktop;
 }
